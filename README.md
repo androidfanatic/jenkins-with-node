@@ -1,0 +1,1 @@
+A alpine linux based Jenkins container with nodejs built-in.
